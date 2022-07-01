@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "dayjs": "^1.11.3",
+    "dotenv": "^16.0.1"
+  }
+}
